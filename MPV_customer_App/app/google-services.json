@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707749464897",
+    "project_id": "mpv-customer",
+    "storage_bucket": "mpv-customer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707749464897:android:3fc6553c4c868ec7c92fc0",
+        "android_client_info": {
+          "package_name": "com.mazenet.mzs119.mpvmemberapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707749464897-8a95lenhnemv3o5l5aa98fdela4ihrja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW-uCCKS1RpWY1bqzPlcrvg3l84x7qy5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707749464897-8a95lenhnemv3o5l5aa98fdela4ihrja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

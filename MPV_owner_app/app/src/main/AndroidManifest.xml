@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mazenet.mzs119.skstowner">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name=".Utils.AppController"
+        android:allowBackup="true"
+        android:icon="@drawable/mpvlogo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/mpvlogo"
+        android:supportsRtl="true"
+        android:usesCleartextTraffic="true"
+        android:theme="@style/AppTheme">
+        <uses-library android:name="org.apache.http.legacy" android:required="false" />
+        <receiver
+            android:name=".Utils.NetworkChangeReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:label="BR">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+                <action android:name="android.net.wifi.WIFI_STATE_CHANGED" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name=".MainActivity" />
+        <activity android:name=".ApprovalActivity" />
+        <activity
+            android:name=".SplashScreen"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Ovrallactivity" />
+        <activity android:name=".CashInHandActivity" />
+        <activity android:name=".DateWiseView" />
+        <activity android:name=".MenuActivity" />
+        <activity
+            android:name=".DeviceApproval"
+            android:label="@string/title_activity_device_approval"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".EmployeeOutstanding" />
+        <activity android:name=".EmployeeWiseOuts" />
+        <activity android:name=".Customer_Info"></activity>
+    </application>
+
+</manifest>

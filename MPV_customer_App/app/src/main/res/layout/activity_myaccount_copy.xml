@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/irontool"
+    tools:context=".MYAccountCopy">
+
+    <RelativeLayout
+        android:id="@+id/titley"
+        android:layout_width="match_parent"
+        android:visibility="gone"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:typeface="sans"
+                android:textColor="@color/colorAccent"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:layout_gravity="center_horizontal"
+                android:text="S.No" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:typeface="sans"
+                android:textColor="@color/colorAccent"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:layout_gravity="center_horizontal"
+                android:textSize="20sp"
+                android:text="Date" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:typeface="sans"
+                android:textColor="@color/colorAccent"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_gravity="center_horizontal"
+                android:text="Group Name" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:typeface="sans"
+                android:textColor="@color/colorAccent"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:visibility="gone"
+                android:textStyle="bold"
+                android:layout_gravity="center_horizontal"
+                android:text="Ticket No." />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:typeface="sans"
+                android:textColor="@color/colorAccent"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:layout_gravity="center_horizontal"
+                android:textSize="20sp"
+                android:text="Receipt No." />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:typeface="sans"
+                android:layout_gravity="center_horizontal"
+                android:textColor="@color/colorAccent"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:text="Total Amount" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:typeface="sans"
+                android:textColor="@color/colorAccent"
+                android:gravity="center"
+                android:layout_gravity="center_horizontal"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:text="Payment Type" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/list_accountcopy"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_below="@+id/titley"
+        android:layout_marginTop="8dp"
+        android:dividerHeight="4.0sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </ListView>
+</androidx.constraintlayout.widget.ConstraintLayout>
