@@ -175,10 +175,10 @@ public class MainActivity extends AppCompatActivity {
         txt_forgetpass.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                passwordlay.setVisibility(View.GONE);
+                passwordlay.setVisibility(View.INVISIBLE);
                 btn_login.setText("Submit");
-                txt_forgetpass.setVisibility(View.GONE);
-                fingerprint_layout.setVisibility(View.GONE);
+                txt_forgetpass.setVisibility(View.INVISIBLE);
+                fingerprint_layout.setVisibility(View.INVISIBLE);
             }
         });
 
