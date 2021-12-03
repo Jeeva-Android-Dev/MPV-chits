@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/layout_bg_select"
+    android:elevation="1dp"
+    android:padding="4dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:gravity="center"
+        android:layout_gravity="center">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="2dp"
+            android:layout_weight="2"
+            android:orientation="vertical">
+
+            <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/txt_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textAllCaps="false"
+                android:textAppearance="?android:attr/textAppearanceListItem"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/txt_vip"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="4dp"
+                android:textAllCaps="false"
+                android:textAppearance="?android:attr/textAppearanceListItem"
+                android:textSize="10dp"
+                android:visibility="gone"
+                android:textColor="#03B362" />
+        </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:id="@+id/txt_collectdatetoday"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="4dp"
+                    android:textAllCaps="false"
+                    android:textSize="10dp"
+                    android:textAppearance="?android:attr/textAppearanceListItem"
+                    android:typeface="sans"
+                    android:textStyle="bold"
+                    android:visibility="gone" />
+                <TextView
+                    android:id="@+id/txt_collectdatetom"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="4dp"
+                    android:textAllCaps="false"
+                    android:textSize="10dp"
+                    android:textAppearance="?android:attr/textAppearanceListItem"
+                    android:typeface="sans"
+                    android:textStyle="bold"
+                    android:visibility="gone"
+                    android:textColor="#c9ad3c" />
+                <View
+                    android:layout_width="4dp"
+                    android:layout_height="match_parent"
+                    />
+                <TextView
+                    android:id="@+id/txt_vip1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="4dp"
+                    android:textAllCaps="false"
+                    android:textSize="10dp"
+                    android:textAppearance="?android:attr/textAppearanceListItem"
+                    android:typeface="sans"
+                    android:textStyle="bold"
+                    android:visibility="gone"
+                    android:textColor="#03B362" />
+                <TextView
+                    android:id="@+id/txt_vip2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="4dp"
+                    android:textAllCaps="false"
+                    android:textSize="10dp"
+                    android:textAppearance="?android:attr/textAppearanceListItem"
+                    android:textColor="#c9ad3c"
+                    android:typeface="sans"
+                    android:textStyle="bold"
+                    android:visibility="gone"
+                    />
+                <TextView
+                    android:id="@+id/txt_vip3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="4dp"
+                    android:textAllCaps="false"
+                    android:textSize="10dp"
+                    android:textAppearance="?android:attr/textAppearanceListItem"
+                    android:visibility="gone"
+                    android:typeface="sans"
+                    android:textStyle="bold"
+                    android:textColor="#ed1717" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/txt_Advance"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1"
+            android:text=""
+            android:textAppearance="?android:attr/textAppearanceListItem"
+            android:textColor="#1d824f"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/txt_paid"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1"
+            android:text=""
+            android:textAppearance="?android:attr/textAppearanceListItem"
+            android:textColor="#0000FF" />
+
+        <TextView
+            android:id="@+id/txt_pending"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:text=""
+            android:textAppearance="?android:attr/textAppearanceListItem"
+            android:textColor="#FF0000" />
+    </LinearLayout>
+
+</LinearLayout>

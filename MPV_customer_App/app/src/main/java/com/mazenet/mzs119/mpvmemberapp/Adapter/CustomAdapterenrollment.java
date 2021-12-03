@@ -56,7 +56,7 @@ public class CustomAdapterenrollment extends BaseAdapter {
 
     public static class ViewHolder {
 
-        public TextView txt_grpname, txt_paid, txt_pending, txt_scheme, txt_penaulty,txt_bonus,txt_installment_no,txt_upcoming_payment,txt_duedate;
+        public TextView txt_grpname, txt_paid, txt_pending, txt_scheme, txt_penaulty,txt_bonus,txt_installment_no,txt_upcoming_payment,txt_duedate,advance_available;
         // txtno,
 
     }
@@ -71,6 +71,8 @@ public class CustomAdapterenrollment extends BaseAdapter {
             vi = inflater.inflate(R.layout.enrolldetails, null);
 
             holder = new ViewHolder();
+            holder.advance_available = (TextView) vi.findViewById(R.id.advance_available);
+            holder.advance_available.setVisibility(View.VISIBLE);
             holder.txt_grpname = (TextView) vi.findViewById(R.id.txt_grpname);
             holder.txt_paid = (TextView) vi.findViewById(R.id.txt_paid);
             holder.txt_pending = (TextView) vi.findViewById(R.id.txt_pending);
@@ -214,6 +216,7 @@ public class CustomAdapterenrollment extends BaseAdapter {
             holder.txt_installment_no.setText(next_due_no_d);
             holder.txt_upcoming_payment.setText("Rs."+next_due_amount_d);
             holder.txt_duedate.setText(next_due_date_d);
+            holder.advance_available.setText(" Advance Available Rs. "+advance_d);
 //            holder.txt_amount.setText(completed_aution);
 
         }

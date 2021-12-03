@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:padding="4dp"
+    android:layout_margin="5dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/txt_cusname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:padding="8dp"
+                android:textColor="#444"
+                android:textSize="22sp" />
+        </LinearLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/layout_bg_select"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp">
+
+
+        <TextView
+            android:id="@+id/txt_grpname"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1.5"
+            android:text=""
+            android:textSize="16sp"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/txt_paid"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1"
+            android:text=""
+            android:textSize="16sp"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#0000FF" />
+
+        <TextView
+            android:id="@+id/txt_pending"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:text=""
+            android:textSize="16sp"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#FF0000" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp">spin
+
+
+        <TextView
+            android:id="@+id/txt_scheme"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1.8"
+            android:textSize="16sp"
+            android:text=""
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/txt_bonus"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1.1"
+            android:text=""
+            android:visibility="visible"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#495ED5" />
+
+        <TextView
+            android:id="@+id/txt_penaulty"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.1"
+            android:gravity="right"
+            android:text=""
+            android:visibility="visible"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#e50000" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/upcoming_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp">
+
+
+        <TextView
+            android:id="@+id/installmentNo"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1.8"
+            android:textSize="16sp"
+
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/upcomingpayment"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1.1"
+
+            android:visibility="visible"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/duedate"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.1"
+            android:gravity="right"
+            android:visibility="visible"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#000000" />
+    </LinearLayout>
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.4"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:gravity="center"
+            android:layout_marginRight="10dp"
+            android:text="Available Advance :Rs."/>
+        <TextView
+            android:id="@+id/advance_amount"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.6"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:layout_gravity="right"
+            android:layout_marginRight="10dp"
+            android:text=""/>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btn_savelocation"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="save location" />
+
+                <Button
+                    android:id="@+id/btn_showlocation"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="show location" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/txt_address"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="2"
+            android:visibility="visible"
+
+            android:orientation="horizontal">
+
+
+            <TextView
+
+                android:layout_width="0dp"
+                android:layout_weight="0.6"
+                android:layout_height="match_parent"
+                android:text="Total Penalty"
+                android:layout_marginRight="10dp"
+                android:gravity="center|right"
+                android:layout_marginTop="4dp"
+                android:layout_marginBottom="4dp"
+                android:textColor="@color/black" />
+            <EditText
+                android:id="@+id/total_bonus"
+                android:layout_width="0dp"
+                android:layout_weight="1.4"
+                android:layout_height="match_parent"
+                android:background="@drawable/rectboxxbg"
+                android:hint="Amount"
+                android:inputType="number"
+                android:singleLine="true"
+                android:focusable="false"
+                android:text="0"
+                android:layout_marginTop="4dp"
+                android:layout_marginBottom="4dp"
+                android:textColor="@color/black" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="2"
+
+            android:orientation="horizontal">
+
+
+            <TextView
+
+                android:layout_width="0dp"
+                android:layout_weight="0.6"
+                android:layout_height="match_parent"
+                android:text="Enter penalty"
+                android:layout_marginRight="10dp"
+                android:gravity="center|right"
+                android:layout_marginTop="4dp"
+                android:layout_marginBottom="4dp"
+                android:textColor="@color/black" />
+            <EditText
+                android:id="@+id/total_penalty"
+                android:layout_width="0dp"
+                android:layout_weight="1.4"
+                android:layout_height="match_parent"
+                android:background="@drawable/rectboxxbg"
+                android:hint="Amount"
+                android:inputType="number"
+                android:singleLine="true"
+                android:focusable="true"
+                android:text="0"
+                android:layout_marginTop="4dp"
+                android:layout_marginBottom="4dp"
+                android:textColor="@color/black" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/installment_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_margin="5dp"
+            android:orientation="vertical"
+            android:visibility="visible"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/txt_reset">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:gravity="center"
+                android:minHeight="40dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/txt_rf_auction"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="Auc. No"
+                    android:textAlignment="center"
+                    android:textColor="#fff"
+                    android:textSize="15dp"/>
+
+                <TextView
+                    android:id="@+id/txt_rf_pendind"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.5"
+                    android:gravity="center"
+                    android:text="Pending"
+                    android:textAlignment="center"
+                    android:textColor="#fff"
+                    android:textSize="15dp" />
+
+
+
+                <View
+                    android:layout_width="0sp"
+                    android:layout_height="match_parent" />
+
+                <TextView
+                    android:id="@+id/txt_rf_bonus"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.5"
+                    android:gravity="center"
+                    android:text="Bonus"
+                    android:textAlignment="center"
+                    android:textColor="#fff"
+                    android:textSize="15dp" />
+
+                <View
+                    android:layout_width="0sp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.2" />
+
+                <TextView
+                    android:id="@+id/txt_rf_totals"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:gravity="center"
+                    android:text="Paying"
+                    android:textColor="#fff"
+                    android:textSize="15dp"
+                    android:textAlignment="center"
+                    />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <com.mazenetsolutions.mzs119.skst_new.Utils.NonScrollListView
+                    android:id="@+id/lst_re_enroll_individual"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="2"
+
+            android:orientation="horizontal">
+
+
+            <TextView
+
+                android:layout_width="0dp"
+                android:layout_weight="0.6"
+                android:layout_height="match_parent"
+                android:text="Receipt Amount"
+                android:layout_marginRight="10dp"
+                android:gravity="center|right"
+                android:layout_marginTop="4dp"
+                android:layout_marginBottom="4dp"
+                android:textColor="@color/black" />
+            <EditText
+                android:id="@+id/edt_amount_indiv"
+                android:layout_width="0dp"
+                android:layout_weight="1.4"
+                android:layout_height="match_parent"
+                android:background="@drawable/rectboxxbg"
+                android:hint="Amount"
+                android:inputType="number"
+                android:singleLine="true"
+                android:focusable="false"
+                android:text=""
+                android:layout_marginTop="4dp"
+                android:layout_marginBottom="4dp"
+                android:textColor="@color/black" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <com.mazenetsolutions.mzs119.skst_new.Utils.NDSpinner
+                android:id="@+id/spn_paytype_indiv"
+                android:layout_width="match_parent"
+                android:layout_marginTop="4dp"
+                android:layout_marginBottom="4dp"
+                android:background="@drawable/rectboxxbg"
+                android:layout_height="wrap_content" />
+
+
+            <LinearLayout
+                android:id="@+id/lay_re_che_indiv"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+                <EditText
+                    android:id="@+id/edt_re_cheno_indiv"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="4dp"
+                    android:background="@drawable/rectboxxbg"
+                    android:hint="Cheque No"
+                    android:inputType="number"
+                    android:layout_marginTop="4dp"
+                    android:singleLine="true"
+                    android:textColor="@color/black" />
+
+
+                <Button
+                    android:id="@+id/btn_che_date_indiv"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="4dp"
+                    android:layout_marginTop="4dp"
+                    android:text="Cheque Date" />
+
+
+                <EditText
+                    android:id="@+id/edt_re_chebank_indiv"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="4dp"
+                    android:background="@drawable/rectboxxbg"
+                    android:hint="Bank Name"
+                    android:singleLine="true"
+                    android:layout_marginTop="4dp"
+                    android:textColor="@color/black" />
+
+
+                <EditText
+                    android:id="@+id/edt_re_chebranch_indiv"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="4dp"
+                    android:background="@drawable/rectboxxbg"
+                    android:layout_marginTop="4dp"
+                    android:hint="Branch Name"
+                    android:singleLine="true"
+                    android:textColor="@color/black" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lay_re_dd_indiv"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+                <EditText
+                    android:id="@+id/edt_re_ddno_indiv"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="4dp"
+                    android:background="@drawable/rectboxxbg"
+                    android:hint="D.D No"
+                    android:inputType="number"
+                    android:singleLine="true"
+                    android:layout_marginTop="4dp"
+                    android:textColor="@color/black" />
+
+
+                <Button
+                    android:id="@+id/btn_dd_date_indiv"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"
+                    android:layout_marginBottom="4dp"
+                    android:text="D.D Date" />
+
+
+                <EditText
+                    android:id="@+id/edt_re_ddbank_indiv"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="4dp"
+                    android:background="@drawable/rectboxxbg"
+                    android:hint="Bank Name"
+                    android:singleLine="true"
+                    android:layout_marginTop="4dp"
+                    android:textColor="@color/black" />
+
+
+                <EditText
+                    android:id="@+id/edt_re_ddbranch_indiv"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="4dp"
+                    android:background="@drawable/rectboxxbg"
+                    android:hint="Branch Name"
+                    android:layout_marginTop="4dp"
+                    android:singleLine="true"
+                    android:textColor="@color/black" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lay_re_rtgs_indiv"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+                <EditText
+                    android:id="@+id/edt_re_rtgsno_indiv"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/rectboxxbg"
+                    android:hint="Transaction No"
+                    android:layout_marginBottom="4dp"
+                    android:singleLine="true"
+                    android:layout_marginTop="4dp"
+                    android:textColor="@color/black" />
+
+
+                <Button
+                    android:id="@+id/btn_rtgs_date_indiv"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"
+                    android:layout_marginBottom="4dp"
+                    android:text="Transaction Date" />
+            </LinearLayout>
+
+
+            <EditText
+                android:id="@+id/edt_re_remark_indiv"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:hint="Remark"
+                android:layout_marginTop="4dp"
+                android:layout_marginBottom="4dp"
+                android:background="@drawable/rectboxxbg"
+                android:singleLine="true"
+                android:textColor="@color/black" />
+
+
+            <Button
+                android:id="@+id/btn_submit_indiv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Submit" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

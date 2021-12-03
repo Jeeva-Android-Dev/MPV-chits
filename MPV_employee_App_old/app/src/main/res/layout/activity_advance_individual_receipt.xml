@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="8dp"
+    android:background="@drawable/rectboxxbg"
+    tools:context=".AdvanceIndividualReceipt">
+
+    <LinearLayout
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/txt_cusname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:padding="8dp"
+            android:textColor="#444"
+            android:textSize="22sp" />
+    </LinearLayout>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title"
+        android:layout_marginTop="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <com.mazenetsolutions.mzs119.skst_new.Utils.NonScrollListView
+                android:id="@+id/list_advanceindiv"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </com.mazenetsolutions.mzs119.skst_new.Utils.NonScrollListView>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="2">
+
+                <EditText
+                    android:id="@+id/edt_adc_availadvnce"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginTop="8dp"
+                    android:editable="false"
+                    android:focusable="false"
+                    android:hint="Available Advance"
+                    android:inputType="text"
+                    android:minHeight="40dp"
+                    android:singleLine="true"
+                    android:visibility="visible" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <EditText
+                android:id="@+id/edt_adc_receiptamnt"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/rectboxxbg"
+                android:hint="Receipt Amount"
+                android:inputType="number"
+                android:minHeight="40dp"
+                android:singleLine="true" />
+
+
+            <EditText
+                android:id="@+id/edt_adc_totaladvance"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/rectboxxbg"
+                android:editable="false"
+                android:focusable="false"
+                android:hint="Total Amount"
+                android:inputType="text"
+                android:minHeight="40dp"
+                android:singleLine="true" />
+
+
+            <com.mazenetsolutions.mzs119.skst_new.Utils.NDSpinner
+                android:id="@+id/spn_adc_paytype"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:backgroundTint="@color/aluminum">
+
+            </com.mazenetsolutions.mzs119.skst_new.Utils.NDSpinner>
+
+            <LinearLayout
+                android:id="@+id/lay_adc_che"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+
+                <EditText
+                    android:id="@+id/edt_adc_cheno"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginTop="8dp"
+                    android:background="@drawable/rectboxxbg"
+                    android:hint="Cheque No"
+                    android:inputType="number"
+                    android:minHeight="40dp"
+                    android:singleLine="true"
+                    android:textColor="@color/black" />
+
+
+                <Button
+                    android:id="@+id/btn_adc_che_date"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginTop="8dp"
+                    android:background="@drawable/rectboxxbg"
+                    android:minHeight="40dp"
+                    android:text="Cheque Date"
+                    android:textColor="@color/colorPrimary" />
+
+
+                <EditText
+                    android:id="@+id/edt_adc_chebank"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginTop="8dp"
+                    android:background="@drawable/rectboxxbg"
+                    android:hint="Bank Name"
+                    android:minHeight="40dp"
+                    android:singleLine="true"
+                    android:textColor="@color/black" />
+
+
+                <EditText
+                    android:id="@+id/edt_adc_chebranch"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginTop="8dp"
+                    android:background="@drawable/rectboxxbg"
+                    android:hint="Branch Name"
+                    android:minHeight="40dp"
+                    android:singleLine="true"
+                    android:textColor="@color/black" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lay_adc_dd"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+
+                <EditText
+                    android:id="@+id/edt_adc_ddno"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginTop="8dp"
+                    android:background="@drawable/rectboxxbg"
+                    android:hint="D.D No"
+                    android:inputType="number"
+                    android:minHeight="40dp"
+                    android:singleLine="true"
+                    android:textColor="@color/black" />
+
+
+                <Button
+                    android:id="@+id/btn_adc_dd_date"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginTop="8dp"
+                    android:background="@drawable/rectboxxbg"
+                    android:textColor="@color/colorPrimary"
+                    android:minHeight="40dp"
+                    android:text="D.D Date" />
+
+
+                <EditText
+                    android:id="@+id/edt_adc_ddbank"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginTop="8dp"
+                    android:background="@drawable/rectboxxbg"
+                    android:hint="Bank Name"
+                    android:minHeight="40dp"
+                    android:singleLine="true"
+                    android:textColor="@color/black" />
+
+
+                <EditText
+                    android:id="@+id/edt_adc_ddbranch"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginTop="8dp"
+                    android:background="@drawable/rectboxxbg"
+                    android:hint="Branch Name"
+                    android:minHeight="40dp"
+                    android:singleLine="true"
+                    android:textColor="@color/black" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/lay_adc_rtgs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone">
+
+
+                <EditText
+                    android:id="@+id/edt_adc_rtgsno"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginTop="8dp"
+                    android:background="@drawable/rectboxxbg"
+                    android:hint="Transaction No"
+                    android:minHeight="40dp"
+                    android:singleLine="true"
+                    android:textColor="@color/black" />
+
+                <Button
+                    android:id="@+id/btn_adc_rtgs_date"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginTop="8dp"
+                    android:background="@drawable/rectboxxbg"
+                    android:minHeight="40dp"
+                    android:text="Transaction Date"
+                    android:textColor="@color/colorPrimary" />
+            </LinearLayout>
+
+
+            <EditText
+                android:id="@+id/edt_adc_remark"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/rectboxxbg"
+                android:hint="Remark"
+                android:minHeight="40dp"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:visibility="gone" />
+
+
+            <Button
+                android:id="@+id/btn_adc_submit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/rectboxxbg"
+                android:backgroundTint="@color/colorContrast"
+                android:minHeight="40dp"
+                android:text="Submit"
+                android:textColor="@color/white"
+                android:visibility="gone" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

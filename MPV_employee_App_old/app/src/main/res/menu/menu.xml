@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:myapp="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_search"
+        android:icon="@drawable/ic_serch"
+        android:title="Search"
+        myapp:showAsAction="always" />
+    <item
+        android:id="@+id/menu_qrcode"
+        android:title="QR Code"
+        android:icon="@drawable/qrco12"
+        myapp:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_refresh"
+        android:icon="@drawable/ic_refersh"
+        android:title="refresh"
+        myapp:showAsAction="ifRoom" />
+</menu>

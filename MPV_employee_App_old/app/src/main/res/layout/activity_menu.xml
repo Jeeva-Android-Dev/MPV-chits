@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    tools:context="com.mazenetsolutions.mzs119.skst_new.MenuActivity">
+
+
+    <Button
+        android:id="@+id/btn_collection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@color/semitrnsparent"
+        android:text="Collection"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/primary"
+        android:visibility="visible" />
+    <Button
+        android:id="@+id/btn_viewCol"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@color/semitrnsparent"
+        android:text="View Collection"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/primary"
+        android:visibility="visible" />
+    <Button
+        android:id="@+id/btn_cashinhand"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@color/semitrnsparent"
+        android:text="Cash in hand"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/primary"
+        android:visibility="visible" />
+    <Button
+        android:id="@+id/btn_logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@color/semitrnsparent"
+        android:text="logout"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/primary"
+        android:visibility="visible" />
+
+
+</LinearLayout>

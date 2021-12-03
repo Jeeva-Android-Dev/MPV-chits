@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mazenetsolution.mzs119.mpvchits"
+    android:targetSandboxVersion="2"
+    android:versionCode="16"
+    android:versionName="0.1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="31" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.front"
+        android:required="false" /> <!-- TODO replace above two with next line after Android 4.2 -->
+    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.flash"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.screen.landscape"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.wifi"
+        android:required="false" />
+
+    <application
+        android:name="com.mazenetsolutions.mzs119.skst_new.Utils.AppController"
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@drawable/mpvlogo"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:roundIcon="@drawable/mpvlogo"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true" >
+        <activity android:name="com.mazenetsolutions.mzs119.skst_new.Add_subscriber" />
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <activity
+            android:name="com.mazenetsolutions.mzs119.skst_new.MainActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity android:name="com.mazenetsolutions.mzs119.skst_new.MenuActivity" />
+        <activity android:name="com.mazenetsolutions.mzs119.skst_new.RecepitActivity" />
+        <activity android:name="com.mazenetsolutions.mzs119.skst_new.CollectionActivity" />
+        <activity android:name="com.mazenetsolutions.mzs119.skst_new.IndividualReceipt" />
+        <activity android:name="com.mazenetsolutions.mzs119.skst_new.DuewiseIndividualReceipt" />
+        <activity android:name="com.mazenetsolutions.mzs119.skst_new.PrintActivity" />
+        <activity android:name="com.mazenetsolutions.mzs119.skst_new.DeviceListActivity" />
+
+        <receiver
+            android:name="com.mazenetsolutions.mzs119.skst_new.NetworkChangeReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:label="BR" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+                <action android:name="android.net.wifi.WIFI_STATE_CHANGED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.mazenetsolutions.mzs119.skst_new.GPS.AlarmReceiver" />
+
+        <activity
+            android:name="com.mazenetsolutions.mzs119.skst_new.SplashScreen"
+            android:theme="@style/Theme.Design.Light.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.mazenetsolutions.mzs119.skst_new.ViewCollection" />
+        <activity android:name="com.mazenetsolutions.mzs119.skst_new.CashInHandActivity" />
+        <activity android:name="com.mazenetsolutions.mzs119.skst_new.DateWiseView" />
+        <activity android:name="com.mazenetsolutions.mzs119.skst_new.PrintActivityDatewise" />
+        <activity android:name="com.mazenetsolutions.mzs119.skst_new.RgisterActivity" />
+        <activity android:name="com.mazenetsolutions.mzs119.skst_new.Advance_receipt" />
+        <activity android:name="com.mazenetsolutions.mzs119.skst_new.AdvanceIndividualReceipt" />
+        <activity android:name="com.mazenetsolutions.mzs119.skst_new.Datewise2" />
+        <activity android:name="com.mazenetsolutions.mzs119.skst_new.Customer_Info" />
+        <activity android:name="com.mazenetsolutions.mzs119.skst_new.PrintActivityAdvance" />
+        <activity android:name="com.mazenetsolutions.mzs119.skst_new.AdvanceAdjustment" />
+        <activity android:name="com.mazenetsolutions.mzs119.skst_new.DuewiseAdvaceReceipt" />
+        <activity android:name="com.mazenetsolutions.mzs119.skst_new.Add_subscriber" />
+        <activity
+            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+            android:clearTaskOnLaunch="true"
+            android:screenOrientation="sensorLandscape"
+            android:stateNotNeeded="true"
+            android:theme="@style/zxing_CaptureTheme"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+    </application>
+
+</manifest>

@@ -2,7 +2,7 @@ package com.mazenet.mzs119.mpvmemberapp.Utils;
 
 public class Constants {
   //  static String loginurl = "http://www.mpvchitfunds.in/app/Mobile/MemberAPP/";
-  static String loginurl = "http://www.mpvchitfunds.in/app/Mobile/MemberAPP/";
+  static String loginurl = "http://www.mpvchitfunds.in/app_test/Mobile/MemberAPP/";
  // static String loginurl = "http://www.mpvchitfunds.in/app/Mobile/MemberAPP/";
 
   //  static String loginurl = "http://essveeteexpress.com/app/Mobile/MemberAPP/";

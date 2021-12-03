@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <network-security-config>
+
+
+    -<domain-config cleartextTrafficPermitted="true">
+
+<!--  <domain includeSubdomains="true">essveeteexpress.com</domain>-->
+    <domain includeSubdomains="true">www.mpvchitfunds.in</domain>
+
+</domain-config>
+
+</network-security-config>
+

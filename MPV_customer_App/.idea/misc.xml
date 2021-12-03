@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Mazenet-DineshRaj/Documents/Jeeva/Androidprojects/Java/MPV/MPV_customer_App/app/src/main/res/layout/accountdetails.xml" value="0.33" />
         <entry key="..\:/Users/Mazenet-DineshRaj/Documents/Jeeva/Androidprojects/Java/MPV/MPV_customer_App/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Mazenet-DineshRaj/Documents/Jeeva/Androidprojects/Java/MPV/MPV_customer_App/app/src/main/res/layout/activity_my_chits.xml" value="0.1935185185185185" />
+        <entry key="..\:/Users/Mazenet-DineshRaj/Documents/Jeeva/Androidprojects/Java/MPV/MPV_customer_App/app/src/main/res/layout/enrolldetails.xml" value="0.1935185185185185" />
       </map>
     </option>
   </component>

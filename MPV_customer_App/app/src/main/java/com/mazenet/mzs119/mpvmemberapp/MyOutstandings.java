@@ -110,8 +110,7 @@ public class MyOutstandings extends AppCompatActivity {
                                 MyOutstandings.this,R.style.MyAlertDialogStyleApproved);
                         alertDialog.setTitle("Information");
                         alertDialog.setCancelable(false);
-                        alertDialog
-                                .setMessage("You Have No Pending Outstandings");
+                        alertDialog.setMessage("You Have No Pending Outstandings");
 
                         alertDialog.setPositiveButton("ok",
                                 new DialogInterface.OnClickListener() {

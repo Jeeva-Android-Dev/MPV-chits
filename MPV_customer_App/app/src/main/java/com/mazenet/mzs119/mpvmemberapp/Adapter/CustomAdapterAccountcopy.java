@@ -150,7 +150,7 @@ public class CustomAdapterAccountcopy extends BaseAdapter {
                 holder.txt_date.setText(dat + " / " + tim);
                 holder.txt_dueadvance.setTextColor(mContext.getResources().getColor(R.color.colorPrimary));
             } else {
-                holder.txt_grpname.setText("");
+                holder.txt_grpname.setText(grpname+"/"+tempValues.getGrpticketno());
                 holder.txt_date.setText(tempValues.getDate() + " / " + tim);
                 holder.txt_dueadvance.setText("Advance Receipt");
                 holder.txt_dueadvance.setTextColor(mContext.getResources().getColor(R.color.colorContrast));

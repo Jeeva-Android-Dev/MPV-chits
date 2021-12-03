@@ -1,0 +1,722 @@
+[
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_myprogress_style.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\myprogress_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg2.jpg.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\bg2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_skstsplash.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\skstsplash.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_billdetails2.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\billdetails2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_close_icon.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\close_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homegrad.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\homegrad.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_print_red.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_print_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_ascend.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_ascend.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_due_wise_receipt.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\due_wise_receipt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_button_selected.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\add_button_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_adv_remark.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\adv_remark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile_icon.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\profile_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_div.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\bg_div.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_refersh.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_refersh.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_skstlogoico.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\skstlogoico.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layoutpressed1.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\layoutpressed1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_user.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\add_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_descend.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_descend.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rgister.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\activity_rgister.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_subscriber.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\activity_add_subscriber.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_close_icon.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\close_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg1.jpg.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\bg1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sync.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\ic_sync.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_transparent.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\button_transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_calender.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-mdpi\\ic_calender.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_collection.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\activity_view_collection.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layout_bg_select.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\layout_bg_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_close_icon.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\close_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_progress.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\my_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_referesh.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_referesh.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\menu_viewmenu.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\menu\\viewmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_serch.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-xhdpi\\ic_serch.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_serch.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-mdpi\\ic_serch.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_refersh.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-xhdpi\\ic_refersh.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recepit.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\activity_recepit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_close_icon.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\close_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_billdetailsview.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\billdetailsview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_referesh.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-xhdpi\\ic_referesh.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_datewise2.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\activity_datewise2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_calender.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_calender.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_name.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_new.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\add_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_close_icon.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\close_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_advance_individual_receipt.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\activity_advance_individual_receipt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_descend.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_descend.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loginback.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\loginback.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_ascend.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_ascend.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_showlocation.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_showlocation.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_city.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\add_city.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_print_red.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_print_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qrco12.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\qrco12.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_personround.webp.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\ic_personround.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cash_in_hand.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\activity_cash_in_hand.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_close_icon.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\close_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_print_red.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_print_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_print_red.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_print_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\img.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mpvlogo.jpg.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\mpvlogo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layout_bg1.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\layout_bg1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_viewcollection.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\ic_viewcollection.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_profile.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_tabitem2.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\tabitem2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back1.jpg.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\back1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_device_list.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\activity_device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_descend.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_descend.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_print_red.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_print_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_referesh.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-mdpi\\ic_referesh.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_referesh.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_referesh.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_ascend.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_ascend.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_serch.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-hdpi\\ic_serch.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gopuram.jpg.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\gopuram.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_transprent.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\transprent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_individual_receipt.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\activity_individual_receipt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_enrolldetails.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\enrolldetails.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_selector.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_button.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\add_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_refersh.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-mdpi\\ic_refersh.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_add_new.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\add_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_add_new.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\add_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectboxxbg.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\rectboxxbg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_boxbg.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\boxbg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layoutpressed.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\layoutpressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_referesh.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-hdpi\\ic_referesh.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_curvedbuttons.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\curvedbuttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logouts.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\ic_logouts.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_refersh.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-hdpi\\ic_refersh.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layoutnormal1.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\layoutnormal1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_advance_receipt.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\activity_advance_receipt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_serch.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\ic_serch.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_ascend.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_ascend.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_due_wise_installment_list.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\due_wise_installment_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_print_red.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_print_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_collection.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\activity_collection.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_refersh.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\ic_refersh.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_ascend.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_ascend.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_add_new.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\add_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_showlocation.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_showlocation.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttonselector.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\buttonselector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_billdetailsviewloans.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\billdetailsviewloans.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_showlocation.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_showlocation.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_descend.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_descend.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cashinhand.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\ic_cashinhand.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_serch.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_serch.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_showlocation.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_showlocation.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_serch.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_serch.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_descend.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_descend.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_calender.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-hdpi\\ic_calender.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_descend.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_descend.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\menu_mainmenu.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\menu\\mainmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add_new.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\add_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer__info.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\activity_customer__info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_search_black_24dp.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_referesh.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\referesh.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_refersh.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_refersh.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_showlocation.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_showlocation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_advadjustment.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\activity_advadjustment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_diaremark.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\diaremark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lock.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg3.jpg.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\bg3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_ascend.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_ascend.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_showlocation.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_showlocation.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layoutnormal.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\layoutnormal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_showlocation.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_showlocation.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_close_icon.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\close_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_billdetails1.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\billdetails1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_calender.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-xhdpi\\ic_calender.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profilepic.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\profilepic.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_calender.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_calender.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mpvsplash.jpg.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\mpvsplash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_koplogo.jpg.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\koplogo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_homelayout.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\homelayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_list.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_descend.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_descend.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\menu_gpsmenu.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\menu\\gpsmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_profile_image_background.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\user_profile_image_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_item_bg_normal.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\list_item_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_date_wise_view.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\activity_date_wise_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_users.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\add_users.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_print_red.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_print_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logoutround.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\ic_logoutround.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_collection.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\ic_collection.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_add_new.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\add_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_add_new.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\add_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_ascend.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_ascend.png"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\layout_custodialog.xml.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\layout\\custodialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user.png.flat",
+        "source": "C:\\Users\\Mazenet-DineshRaj\\Documents\\Jeeva\\Androidprojects\\Java\\MPV\\MPV_employee_App_old\\app\\src\\main\\res\\drawable\\user.png"
+    }
+]
