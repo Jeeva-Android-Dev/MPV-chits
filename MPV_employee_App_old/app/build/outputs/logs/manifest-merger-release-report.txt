@@ -1,0 +1,428 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:2:1-83:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\01aba6feafaa9666a150e0ccab90f24c\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\f7fa931c10060cb31b4ececcd856b65d\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\75fe1a0d0ea641341446dfd6b8974e96\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [:android-volley-master] C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\android-volley-master\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-13:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\7d7fd0d2929b90b96150578fa61b2794\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\2d0612d63df724f5ca63ebeff68e9f28\jetified-circleimageview-3.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\5c75bd7951d359a85775620c0170e49e\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\e27002105a9bdd38fe216ef919b747b9\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\850a3c84da944cc872764513edcd7120\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\d5caeb323d2f012734c7fc83bc887a28\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\92f8e3eea2413f9234d57f836e040f22\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\cb2cdf934d3d3e0441b52d1dc3cb2e6a\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\18e25bdaeb278667d7aef2960bdb2cf5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\677aa75f82ea85608bf2d524d4539a5f\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\ad12b5d47f95c8d2598703c1b1f7c267\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\495dc0f2fa247d616fe68db13bf5e07d\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\8024d43f2ec98c58159e4490c7c84830\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\14bfd2f44a1567c658112bb55b76246b\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\f543223d8dd1217edab7f57e00d5e19d\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\10c23e4693f75e7c26502c252f3749d1\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\0408bc08863151ad5a41361bace418b5\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\223ae8e78f23f48ba5d96a1dcabe1834\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\e6db2a8ebafb4101960628e4b20a9462\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\98533a75c963d389d2db7b5a19727bc5\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\48d198bece9830d2bf28cd51b05742db\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\1cd7eff88f5e86d0249af2958bf465f0\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\aace0d5da73d2c817f12bb96d6698e5c\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\929ec10604c047a76453df3294ada6ae\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\c4e2469658fdd8801a5306110b0915fc\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\1d3d300991201f0272c309154f6a5e44\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\b483c59108b83b2c001374a9e1131636\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\28efee2bf1e9a77f569846ad27f8a168\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\e2041232485bdf4d2a09c36930218fc5\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\0b3ed2b8b9ba103e713cc57e24141ba7\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\80494d026c905f06e4c8b45b3569cb2d\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\54ec9a60a0f20829d9c5323f1ce0908c\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\0571339fd4cb74441b19561f6766bb98\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\0f91f258f9d0abaa0e56c019df47bd85\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:2:1-83:12
+INJECTED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:2:1-83:12
+	package
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:4:5-51
+		INJECTED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:2:1-83:12
+		INJECTED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:2:1-83:12
+		INJECTED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:13:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:21:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:13:22-62
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:14:5-74
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:14:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:17:5-74
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:17:22-71
+application
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:19:5-81:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\01aba6feafaa9666a150e0ccab90f24c\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\01aba6feafaa9666a150e0ccab90f24c\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\75fe1a0d0ea641341446dfd6b8974e96\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\75fe1a0d0ea641341446dfd6b8974e96\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [:android-volley-master] C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\android-volley-master\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-20
+MERGED from [:android-volley-master] C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\android-volley-master\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-20
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:45:5-53:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:45:5-53:19
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\2d0612d63df724f5ca63ebeff68e9f28\jetified-circleimageview-3.0.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\2d0612d63df724f5ca63ebeff68e9f28\jetified-circleimageview-3.0.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\1cd7eff88f5e86d0249af2958bf465f0\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\1cd7eff88f5e86d0249af2958bf465f0\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\929ec10604c047a76453df3294ada6ae\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\929ec10604c047a76453df3294ada6ae\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\1cd7eff88f5e86d0249af2958bf465f0\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:25:9-46
+	android:icon
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:22:9-41
+	android:allowBackup
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:27:9-40
+	android:networkSecurityConfig
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:24:9-69
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:28:9-44
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:20:9-44
+activity#com.mazenetsolutions.mzs119.skst_new.Add_subscriber
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:29:9-61
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:29:19-49
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:31:9-33:40
+	android:required
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:32:13-50
+activity#com.mazenetsolutions.mzs119.skst_new.MainActivity
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:35:9-37:75
+	android:theme
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:37:13-72
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:36:13-41
+activity#com.mazenetsolutions.mzs119.skst_new.MenuActivity
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:38:9-50
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:38:19-47
+activity#com.mazenetsolutions.mzs119.skst_new.RecepitActivity
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:39:9-53
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:39:19-50
+activity#com.mazenetsolutions.mzs119.skst_new.CollectionActivity
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:40:9-56
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:40:19-53
+activity#com.mazenetsolutions.mzs119.skst_new.IndividualReceipt
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:41:9-55
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:41:19-52
+activity#com.mazenetsolutions.mzs119.skst_new.DuewiseIndividualReceipt
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:42:9-62
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:42:19-59
+activity#com.mazenetsolutions.mzs119.skst_new.PrintActivity
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:43:9-51
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:43:19-48
+activity#com.mazenetsolutions.mzs119.skst_new.DeviceListActivity
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:44:9-56
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:44:19-53
+receiver#com.mazenetsolutions.mzs119.skst_new.NetworkChangeReceiver
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:46:9-56:20
+	android:enabled
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:48:13-35
+	android:label
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:50:13-31
+	android:exported
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:49:13-36
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:47:13-50
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.net.conn.CONNECTIVITY_CHANGE+action:name:android.net.wifi.WIFI_STATE_CHANGED
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:51:13-55:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:52:17-79
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:52:25-76
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:53:17-79
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:53:25-76
+action#android.net.wifi.WIFI_STATE_CHANGED
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:54:17-78
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:54:25-75
+receiver#com.mazenetsolutions.mzs119.skst_new.GPS.AlarmReceiver
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:57:9-55
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:57:19-52
+activity#com.mazenetsolutions.mzs119.skst_new.SplashScreen
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:59:9-67:20
+	android:theme
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:61:13-66
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:60:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:62:13-66:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:63:17-69
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:63:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:65:17-77
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:65:27-74
+activity#com.mazenetsolutions.mzs119.skst_new.ViewCollection
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:68:9-52
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:68:19-49
+activity#com.mazenetsolutions.mzs119.skst_new.CashInHandActivity
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:69:9-56
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:69:19-53
+activity#com.mazenetsolutions.mzs119.skst_new.DateWiseView
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:70:9-50
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:70:19-47
+activity#com.mazenetsolutions.mzs119.skst_new.PrintActivityDatewise
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:71:9-59
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:71:19-56
+activity#com.mazenetsolutions.mzs119.skst_new.RgisterActivity
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:72:9-53
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:72:19-50
+activity#com.mazenetsolutions.mzs119.skst_new.Advance_receipt
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:73:9-53
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:73:19-50
+activity#com.mazenetsolutions.mzs119.skst_new.AdvanceIndividualReceipt
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:74:9-62
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:74:19-59
+activity#com.mazenetsolutions.mzs119.skst_new.Datewise2
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:75:9-47
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:75:19-44
+activity#com.mazenetsolutions.mzs119.skst_new.Customer_Info
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:76:9-51
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:76:19-48
+activity#com.mazenetsolutions.mzs119.skst_new.PrintActivityAdvance
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:77:9-58
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:77:19-55
+activity#com.mazenetsolutions.mzs119.skst_new.AdvanceAdjustment
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:78:9-55
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:78:19-52
+activity#com.mazenetsolutions.mzs119.skst_new.DuewiseAdvaceReceipt
+ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:79:9-58
+	android:name
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:79:19-55
+uses-sdk
+INJECTED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\01aba6feafaa9666a150e0ccab90f24c\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\01aba6feafaa9666a150e0ccab90f24c\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\f7fa931c10060cb31b4ececcd856b65d\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\f7fa931c10060cb31b4ececcd856b65d\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\75fe1a0d0ea641341446dfd6b8974e96\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\75fe1a0d0ea641341446dfd6b8974e96\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [:android-volley-master] C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\android-volley-master\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:android-volley-master] C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\android-volley-master\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:19:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:19:5-43
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\7d7fd0d2929b90b96150578fa61b2794\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\7d7fd0d2929b90b96150578fa61b2794\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\2d0612d63df724f5ca63ebeff68e9f28\jetified-circleimageview-3.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\2d0612d63df724f5ca63ebeff68e9f28\jetified-circleimageview-3.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\5c75bd7951d359a85775620c0170e49e\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\5c75bd7951d359a85775620c0170e49e\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\e27002105a9bdd38fe216ef919b747b9\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\e27002105a9bdd38fe216ef919b747b9\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\850a3c84da944cc872764513edcd7120\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\850a3c84da944cc872764513edcd7120\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\d5caeb323d2f012734c7fc83bc887a28\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\d5caeb323d2f012734c7fc83bc887a28\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\92f8e3eea2413f9234d57f836e040f22\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\92f8e3eea2413f9234d57f836e040f22\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\cb2cdf934d3d3e0441b52d1dc3cb2e6a\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\cb2cdf934d3d3e0441b52d1dc3cb2e6a\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\18e25bdaeb278667d7aef2960bdb2cf5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\18e25bdaeb278667d7aef2960bdb2cf5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\677aa75f82ea85608bf2d524d4539a5f\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\677aa75f82ea85608bf2d524d4539a5f\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\ad12b5d47f95c8d2598703c1b1f7c267\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\ad12b5d47f95c8d2598703c1b1f7c267\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\495dc0f2fa247d616fe68db13bf5e07d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\495dc0f2fa247d616fe68db13bf5e07d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\8024d43f2ec98c58159e4490c7c84830\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\8024d43f2ec98c58159e4490c7c84830\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\14bfd2f44a1567c658112bb55b76246b\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\14bfd2f44a1567c658112bb55b76246b\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\f543223d8dd1217edab7f57e00d5e19d\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\f543223d8dd1217edab7f57e00d5e19d\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\10c23e4693f75e7c26502c252f3749d1\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\10c23e4693f75e7c26502c252f3749d1\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\0408bc08863151ad5a41361bace418b5\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\0408bc08863151ad5a41361bace418b5\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\223ae8e78f23f48ba5d96a1dcabe1834\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\223ae8e78f23f48ba5d96a1dcabe1834\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\e6db2a8ebafb4101960628e4b20a9462\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\e6db2a8ebafb4101960628e4b20a9462\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\98533a75c963d389d2db7b5a19727bc5\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\98533a75c963d389d2db7b5a19727bc5\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\48d198bece9830d2bf28cd51b05742db\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\48d198bece9830d2bf28cd51b05742db\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\1cd7eff88f5e86d0249af2958bf465f0\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\1cd7eff88f5e86d0249af2958bf465f0\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\aace0d5da73d2c817f12bb96d6698e5c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\aace0d5da73d2c817f12bb96d6698e5c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\929ec10604c047a76453df3294ada6ae\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\929ec10604c047a76453df3294ada6ae\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\c4e2469658fdd8801a5306110b0915fc\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\c4e2469658fdd8801a5306110b0915fc\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\1d3d300991201f0272c309154f6a5e44\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\1d3d300991201f0272c309154f6a5e44\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\b483c59108b83b2c001374a9e1131636\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\b483c59108b83b2c001374a9e1131636\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\28efee2bf1e9a77f569846ad27f8a168\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\28efee2bf1e9a77f569846ad27f8a168\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\e2041232485bdf4d2a09c36930218fc5\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\e2041232485bdf4d2a09c36930218fc5\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\0b3ed2b8b9ba103e713cc57e24141ba7\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\0b3ed2b8b9ba103e713cc57e24141ba7\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\80494d026c905f06e4c8b45b3569cb2d\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\80494d026c905f06e4c8b45b3569cb2d\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\54ec9a60a0f20829d9c5323f1ce0908c\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\54ec9a60a0f20829d9c5323f1ce0908c\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\0571339fd4cb74441b19561f6766bb98\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\0571339fd4cb74441b19561f6766bb98\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\0f91f258f9d0abaa0e56c019df47bd85\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\0f91f258f9d0abaa0e56c019df47bd85\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:25:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:33:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:42:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:46:9-52:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:49:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:48:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:47:13-74

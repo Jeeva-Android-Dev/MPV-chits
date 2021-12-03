@@ -157,27 +157,25 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:weightSum="2">
+            android:orientation="horizontal">
             <TextView
-                android:layout_width="0dp"
+                android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:layout_weight="1.4"
+                android:layout_weight="1"
                 android:textColor="@color/black"
-                android:textSize="15dp"
-                android:gravity="center"
-                android:layout_marginRight="10dp"
-                android:text="Available Advance :Rs."/>
+                android:textSize="15sp"
+                android:gravity="right"
+                android:layout_marginRight="5dp"
+                android:text="Available Advance : Rs."/>
             <TextView
                 android:id="@+id/advance_amount_enroll_details"
-                android:layout_width="0dp"
+                android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:layout_weight="0.6"
+                android:layout_weight="1"
                 android:textColor="@color/black"
-                android:textSize="15dp"
+                android:textSize="15sp"
                 android:layout_gravity="right"
-                android:layout_marginRight="10dp"
-                android:text=""/>
+                android:text="0"/>
 
         </LinearLayout>
     </LinearLayout>

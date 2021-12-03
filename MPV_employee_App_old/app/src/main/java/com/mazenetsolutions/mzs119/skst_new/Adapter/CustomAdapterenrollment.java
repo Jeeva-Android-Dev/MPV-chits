@@ -106,7 +106,7 @@ public class CustomAdapterenrollment extends BaseAdapter {
             holder.installmentNo.setTypeface(tf);
             holder.upcomingpayment.setTypeface(tf);
             holder.duedate.setTypeface(tf);
-            holder.advance_amt.setTypeface(tf);
+            //holder.advance_amt.setTypeface(tf);
             vi.setTag(holder);
         } else
             holder = (ViewHolder) vi.getTag();

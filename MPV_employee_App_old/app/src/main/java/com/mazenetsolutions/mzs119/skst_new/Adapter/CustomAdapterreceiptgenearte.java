@@ -98,7 +98,7 @@ public class CustomAdapterreceiptgenearte extends BaseAdapter {
             holder.txt_penaulty.setTypeface(tf);
             holder.txt_amount.setTypeface(tf);
             holder.txt_advance.setTypeface(tf);
-            holder.advance_amount_enroll_details.setTypeface(tf);
+            //holder.advance_amount_enroll_details.setTypeface(tf);
 
 
             holder.installmentNo.setTypeface(tf);

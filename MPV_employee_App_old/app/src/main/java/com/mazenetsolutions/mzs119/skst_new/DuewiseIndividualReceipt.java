@@ -167,7 +167,7 @@ public class DuewiseIndividualReceipt extends AppCompatActivity {
         advance_amount = (TextView) findViewById(R.id.advance_amount);
         total_penalty = (EditText) findViewById(R.id.total_penalty);
         total_bonus = (EditText) findViewById(R.id.total_bonus);
-        advance_amount.setText(globalValue.getString("cus_advance"));
+      //  advance_amount.setText(globalValue.getString("cus_advance"));
 
         spinner = (NDSpinner) findViewById(R.id.spn_paytype_indiv);
 
@@ -274,6 +274,7 @@ public class DuewiseIndividualReceipt extends AppCompatActivity {
         }
         if (cd.isConnectedToInternet()) {
             reteriveall();
+            reteriveadvance();
         } else {
             // reteriveloca();
         }
@@ -2247,55 +2248,55 @@ if(payamount.length()==0){
     }
 
 
-//    public void reteriveadvance() {
-//
-//        System.out.println("advance idd");
-////        enroll_list.clear();
-//        //dbrecepit.deletetable();
-//        StringRequest movieReq = new StringRequest(Request.Method.POST,
-//                Config.totalavailableadvance, new Response.Listener<String>() {
-//            @Override
-//            public void onResponse(String response) {
-//                Log.d("Collection Activity", response.toString());
-//                System.out.println("advance " + response);
-//                try {
-//
-//
-//                    JSONObject object = new JSONObject(response);
-//                    String advance = object.getString("advance");
-//                    advance_amount.setText(advance);
-//
-//                } catch (JSONException e) {
-//                    e.printStackTrace();
-//                }
-//
-//
-//            }
-//        }, new Response.ErrorListener() {
-//            @Override
-//            public void onErrorResponse(VolleyError error) {
-//                VolleyLog.d("Activity", "Error: " + error.getMessage());
-//                Toast.makeText(getApplicationContext(),
-//                        error.getMessage(), Toast.LENGTH_SHORT).show();
-//
-//            }
-//        }) {
-//
-//            @Override
-//            protected Map<String, String> getParams() {
-//                Map<String, String> params = new HashMap<String, String>();
-//                params.put("cusid", cusid);
-//                System.out.println("advancecus id " + cusid);
-//
-//                return params;
-//            }
-//
-//        };
-//        movieReq.setRetryPolicy(new DefaultRetryPolicy(10000,
-//                DefaultRetryPolicy.DEFAULT_MAX_RETRIES,
-//                DefaultRetryPolicy.DEFAULT_BACKOFF_MULT));
-//        // Adding request to request queue
-//        AppController.getInstance().addToRequestQueue(movieReq);
-//    }
+    public void reteriveadvance() {
+
+        System.out.println("advance idd");
+//        enroll_list.clear();
+        //dbrecepit.deletetable();
+        StringRequest movieReq = new StringRequest(Request.Method.POST,
+                Config.availableadvance, new Response.Listener<String>() {
+            @Override
+            public void onResponse(String response) {
+                Log.d("Collection Activity", response.toString());
+                System.out.println("advance " + response);
+                try {
+
+
+                    JSONObject object = new JSONObject(response);
+                    String advance = object.getString("advance");
+                    advance_amount.setText(advance);
+
+                } catch (JSONException e) {
+                    e.printStackTrace();
+                }
+
+
+            }
+        }, new Response.ErrorListener() {
+            @Override
+            public void onErrorResponse(VolleyError error) {
+                VolleyLog.d("Activity", "Error: " + error.getMessage());
+                Toast.makeText(getApplicationContext(),
+                        error.getMessage(), Toast.LENGTH_SHORT).show();
+
+            }
+        }) {
+
+            @Override
+            protected Map<String, String> getParams() {
+                Map<String, String> params = new HashMap<String, String>();
+                params.put("cusid", cusid);
+                System.out.println("advancecus id " + cusid);
+
+                return params;
+            }
+
+        };
+        movieReq.setRetryPolicy(new DefaultRetryPolicy(10000,
+                DefaultRetryPolicy.DEFAULT_MAX_RETRIES,
+                DefaultRetryPolicy.DEFAULT_BACKOFF_MULT));
+        // Adding request to request queue
+        AppController.getInstance().addToRequestQueue(movieReq);
+    }
 
 }

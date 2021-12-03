@@ -11,8 +11,8 @@ public class Config {
     //http://www.mpvchitfunds.in/app/
 
 
- static String loginurl = "http://www.mpvchitfunds.in/app_test/Mobile/";
-// static String loginurl = "http://www.mpvchitfunds.in/app/Mobile/";
+// static String loginurl = "http://www.mpvchitfunds.in/app_test/Mobile/";
+static String loginurl = "http://www.mpvchitfunds.in/app/Mobile/";
    // static String loginurl = "http://www.mpvchitfunds.in/app/Mobile/";
     public static String preff = "MPVCHITS";
 

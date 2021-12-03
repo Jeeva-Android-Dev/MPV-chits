@@ -53,7 +53,6 @@
         android:networkSecurityConfig="@xml/network_security_config"
         android:roundIcon="@drawable/mpvlogo"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true" >
         <activity android:name="com.mazenetsolutions.mzs119.skst_new.Add_subscriber" />

@@ -1,0 +1,249 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mazenetsolution.mzs119.mpvchits"
+4    android:versionCode="17"
+5    android:versionName="0.1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:7:5-79
+12-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:8:5-76
+13-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:8:22-73
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:9:5-80
+14-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:9:22-77
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:10:5-81
+15-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:10:22-78
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:11:5-81
+16-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:11:22-78
+17    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+17-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:12:5-75
+17-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:12:22-72
+18    <uses-permission android:name="android.permission.CAMERA" />
+18-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:13:5-65
+18-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:13:22-62
+19    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+19-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:14:5-74
+19-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:14:22-71
+20    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+20-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:15:5-79
+20-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:15:22-76
+21    <uses-permission android:name="android.permission.BLUETOOTH" />
+21-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:16:5-68
+21-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:16:22-65
+22    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+22-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:17:5-74
+22-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:17:22-71
+23
+24    <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
+25    <uses-feature
+25-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:24:5-26:36
+26        android:name="android.hardware.camera"
+26-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:25:9-47
+27        android:required="false" />
+27-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:26:9-33
+28    <uses-feature
+28-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:27:5-29:36
+29        android:name="android.hardware.camera.front"
+29-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:28:9-53
+30        android:required="false" /> <!-- TODO replace above two with next line after Android 4.2 -->
+30-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:29:9-33
+31    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
+32    <uses-feature
+32-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:32:5-34:36
+33        android:name="android.hardware.camera.autofocus"
+33-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:33:9-57
+34        android:required="false" />
+34-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:34:9-33
+35    <uses-feature
+35-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:35:5-37:36
+36        android:name="android.hardware.camera.flash"
+36-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:36:9-53
+37        android:required="false" />
+37-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:37:9-33
+38    <uses-feature
+38-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:38:5-40:36
+39        android:name="android.hardware.screen.landscape"
+39-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:39:9-57
+40        android:required="false" />
+40-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:40:9-33
+41    <uses-feature
+41-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:41:5-43:36
+42        android:name="android.hardware.wifi"
+42-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:42:9-45
+43        android:required="false" />
+43-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:43:9-33
+44
+45    <application
+45-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:19:5-81:19
+46        android:name="com.mazenetsolutions.mzs119.skst_new.Utils.AppController"
+46-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:20:9-44
+47        android:allowBackup="true"
+47-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:21:9-35
+48        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+48-->[androidx.core:core:1.1.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\1cd7eff88f5e86d0249af2958bf465f0\core-1.1.0\AndroidManifest.xml:24:18-86
+49        android:icon="@drawable/mpvlogo"
+49-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:22:9-41
+50        android:label="@string/app_name"
+50-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:23:9-41
+51        android:networkSecurityConfig="@xml/network_security_config"
+51-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:24:9-69
+52        android:roundIcon="@drawable/mpvlogo"
+52-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:25:9-46
+53        android:supportsRtl="true"
+53-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:26:9-35
+54        android:theme="@style/AppTheme"
+54-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:27:9-40
+55        android:usesCleartextTraffic="true" >
+55-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:28:9-44
+56        <activity android:name="com.mazenetsolutions.mzs119.skst_new.Add_subscriber" />
+56-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:29:9-61
+56-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:29:19-49
+57
+58        <uses-library
+58-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:31:9-33:40
+59            android:name="org.apache.http.legacy"
+59-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:32:13-50
+60            android:required="false" />
+60-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:33:13-37
+61
+62        <activity
+62-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:35:9-37:75
+63            android:name="com.mazenetsolutions.mzs119.skst_new.MainActivity"
+63-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:36:13-41
+64            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+64-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:37:13-72
+65        <activity android:name="com.mazenetsolutions.mzs119.skst_new.MenuActivity" />
+65-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:38:9-50
+65-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:38:19-47
+66        <activity android:name="com.mazenetsolutions.mzs119.skst_new.RecepitActivity" />
+66-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:39:9-53
+66-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:39:19-50
+67        <activity android:name="com.mazenetsolutions.mzs119.skst_new.CollectionActivity" />
+67-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:40:9-56
+67-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:40:19-53
+68        <activity android:name="com.mazenetsolutions.mzs119.skst_new.IndividualReceipt" />
+68-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:41:9-55
+68-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:41:19-52
+69        <activity android:name="com.mazenetsolutions.mzs119.skst_new.DuewiseIndividualReceipt" />
+69-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:42:9-62
+69-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:42:19-59
+70        <activity android:name="com.mazenetsolutions.mzs119.skst_new.PrintActivity" />
+70-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:43:9-51
+70-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:43:19-48
+71        <activity android:name="com.mazenetsolutions.mzs119.skst_new.DeviceListActivity" />
+71-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:44:9-56
+71-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:44:19-53
+72
+73        <receiver
+73-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:46:9-56:20
+74            android:name="com.mazenetsolutions.mzs119.skst_new.NetworkChangeReceiver"
+74-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:47:13-50
+75            android:enabled="true"
+75-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:48:13-35
+76            android:exported="true"
+76-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:49:13-36
+77            android:label="BR" >
+77-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:50:13-31
+78            <intent-filter>
+78-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:51:13-55:29
+79                <action android:name="android.intent.action.BOOT_COMPLETED" />
+79-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:52:17-79
+79-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:52:25-76
+80                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+80-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:53:17-79
+80-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:53:25-76
+81                <action android:name="android.net.wifi.WIFI_STATE_CHANGED" />
+81-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:54:17-78
+81-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:54:25-75
+82            </intent-filter>
+83        </receiver>
+84        <receiver android:name="com.mazenetsolutions.mzs119.skst_new.GPS.AlarmReceiver" />
+84-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:57:9-55
+84-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:57:19-52
+85
+86        <activity
+86-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:59:9-67:20
+87            android:name="com.mazenetsolutions.mzs119.skst_new.SplashScreen"
+87-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:60:13-41
+88            android:theme="@style/Theme.Design.Light.NoActionBar" >
+88-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:61:13-66
+89            <intent-filter>
+89-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:62:13-66:29
+90                <action android:name="android.intent.action.MAIN" />
+90-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:63:17-69
+90-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:63:25-66
+91
+92                <category android:name="android.intent.category.LAUNCHER" />
+92-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:65:17-77
+92-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:65:27-74
+93            </intent-filter>
+94        </activity>
+95        <activity android:name="com.mazenetsolutions.mzs119.skst_new.ViewCollection" />
+95-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:68:9-52
+95-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:68:19-49
+96        <activity android:name="com.mazenetsolutions.mzs119.skst_new.CashInHandActivity" />
+96-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:69:9-56
+96-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:69:19-53
+97        <activity android:name="com.mazenetsolutions.mzs119.skst_new.DateWiseView" />
+97-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:70:9-50
+97-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:70:19-47
+98        <activity android:name="com.mazenetsolutions.mzs119.skst_new.PrintActivityDatewise" />
+98-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:71:9-59
+98-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:71:19-56
+99        <activity android:name="com.mazenetsolutions.mzs119.skst_new.RgisterActivity" />
+99-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:72:9-53
+99-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:72:19-50
+100        <activity android:name="com.mazenetsolutions.mzs119.skst_new.Advance_receipt" />
+100-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:73:9-53
+100-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:73:19-50
+101        <activity android:name="com.mazenetsolutions.mzs119.skst_new.AdvanceIndividualReceipt" />
+101-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:74:9-62
+101-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:74:19-59
+102        <activity android:name="com.mazenetsolutions.mzs119.skst_new.Datewise2" />
+102-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:75:9-47
+102-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:75:19-44
+103        <activity android:name="com.mazenetsolutions.mzs119.skst_new.Customer_Info" />
+103-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:76:9-51
+103-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:76:19-48
+104        <activity android:name="com.mazenetsolutions.mzs119.skst_new.PrintActivityAdvance" />
+104-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:77:9-58
+104-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:77:19-55
+105        <activity android:name="com.mazenetsolutions.mzs119.skst_new.AdvanceAdjustment" />
+105-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:78:9-55
+105-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:78:19-52
+106        <activity android:name="com.mazenetsolutions.mzs119.skst_new.DuewiseAdvaceReceipt" />
+106-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:79:9-58
+106-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:79:19-55
+107        <activity android:name="com.mazenetsolutions.mzs119.skst_new.Add_subscriber" />
+107-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:29:9-61
+107-->C:\Users\Mazenet-DineshRaj\Documents\Jeeva\Androidprojects\Java\MPV\MPV_employee_App_old\app\src\main\AndroidManifest.xml:29:19-49
+108        <activity
+108-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:46:9-52:63
+109            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+109-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:47:13-74
+110            android:clearTaskOnLaunch="true"
+110-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:48:13-45
+111            android:screenOrientation="sensorLandscape"
+111-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:49:13-56
+112            android:stateNotNeeded="true"
+112-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:50:13-42
+113            android:theme="@style/zxing_CaptureTheme"
+113-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:51:13-54
+114            android:windowSoftInputMode="stateAlwaysHidden" />
+114-->[com.journeyapps:zxing-android-embedded:3.4.0] C:\Users\Mazenet-DineshRaj\.gradle\caches\transforms-2\files-2.1\291aeff192d42ec63e452c7e284e0a64\jetified-zxing-android-embedded-3.4.0\AndroidManifest.xml:52:13-60
+115    </application>
+116
+117</manifest>
