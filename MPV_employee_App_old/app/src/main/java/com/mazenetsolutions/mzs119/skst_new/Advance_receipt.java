@@ -109,9 +109,8 @@ public class Advance_receipt extends AppCompatActivity {
 
         if (cd.isConnectedToInternet()) {
             reteriveall();
-            //reteriveadvance();
+            reteriveadvance();
         } else {
-
             reterivefromdb();
         }
 
@@ -363,7 +362,7 @@ public class Advance_receipt extends AppCompatActivity {
                 Config.totalavailableadvance, new Response.Listener<String>() {
             @Override
             public void onResponse(String response) {
-                Log.d("Collection Activity", response.toString());
+                Log.d("advance", response.toString());
                 System.out.println("advance " + response);
                 try {
 
